@@ -1,4 +1,13 @@
-## Hi there 👋
+[<img src="https://github.com/cococov/cococov/assets/19384973/ad95c7af-d6fb-41f2-8844-1f3f92329f6d" width="32" height="32" />](https://cl.linkedin.com/in/mauro-sanchez-m/) &nbsp;&nbsp;
+## Hi there!
+
+My name is Mauricio Sánchez, currently working in multiple private projects.
+> Fullstack web developer, gamer, father of four, nerd at heart
+
+### Languages and techs
+
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,html,css,react,redis,regex,ember,postgres,mysql,postman,powershell,bash,linux,ubuntu,redhat,arch,git,github,gitlab,jest,vite,nodejs,nextjs,kafka,jenkins,kubernetes)](https://skillicons.dev)
+
 
 <!--
 **mauro-sanchez/mauro-sanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
